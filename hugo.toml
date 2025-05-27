@@ -1,0 +1,18 @@
+baseURL = "https://ellacejones02.github.io/ella-jones-site/"
+languageCode = "en-us"
+title = "Ella Jones"
+theme = "PaperMod"
+
+[params]
+  homeInfoParams = { Title = "Hi, I'm Ella", Content = "CS + Data Science major at Northwestern. Tea lover. Resume below." }
+  defaultTheme = "light"
+  ShowReadingTime = true
+
+[params.assets]
+  favicon = "favicon.ico"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
