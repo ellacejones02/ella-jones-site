@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Ella C. E. Jones</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Home on Ella C. E. Jones</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;h3 id=&#34;hi-there&#34;&gt;Hi There,&lt;/h3&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a Computer Science &amp;amp; Data Science Student at Northwestern University, passionate about technology and innovation. After graduation, I will be working in Chicago as an analyst at The Jordan Company, L.P. (Private Equity).&lt;/p&gt;&#xA;&lt;p&gt;In my sparetime, I enjoy hanging out with my friends and family, running, cycling, cooking and baking, and watercolor painting!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Education</title>
+      <link>//localhost:1313/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/education/</guid>
+      <description>&lt;h2 id=&#34;northwestern-university&#34;&gt;Northwestern University&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;B.A. in Computer Science, Minor in Data Science&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;June 2025&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Relevant Coursework:&lt;/strong&gt; Machine Learning, Algorithms, Data Visualization, Scalable Software Architecture, Internet Security, Computer Networking, Causal Graphical Modeling, and more. Click on my &lt;a href=&#34;//localhost:1313/resume&#34;&gt;resume&lt;/a&gt; to see my full transcript.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Experience</title>
+      <link>//localhost:1313/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/experience/</guid>
+      <description>&lt;h3 id=&#34;business-data-analyst-intern--the-jordan-company-lp-jun-2024--aug-2024-full-time-start-in-july-2025&#34;&gt;Business Data Analyst Intern — The Jordan Company, L.P. (Jun 2024 – Aug 2024, Full-time start in July 2025)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Delivered insights supporting EBITDA and cashflow improvement.&lt;/li&gt;&#xA;&lt;li&gt;Built data tools and scorecards to track performance.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;financial-assistant--student-organization-finance-office-northwestern-sep-2023--jun-2024&#34;&gt;Financial Assistant — Student Organization Finance Office, Northwestern (Sep 2023 – Jun 2024)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Provided frontline customer service for student org finance.&lt;/li&gt;&#xA;&lt;li&gt;Automated ledger and check processing workflows.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;undergraduate-researcher-project-head--dtr-group-northwestern-sep-2023--dec-2023&#34;&gt;Undergraduate Researcher, Project Head — DTR Group, Northwestern (Sep 2023 – Dec 2023)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Led research on self‑regulation techniques for improved work practices.&lt;/li&gt;&#xA;&lt;li&gt;Integrated tools that optimize collaborative learning.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;data-analytics--cxs-intern--pypestream-may-2022--aug-2022&#34;&gt;Data Analytics / CXS Intern — Pypestream (May 2022 – Aug 2022)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Extracted and analyzed chatbot data using Python &amp;amp; cloud services.&lt;/li&gt;&#xA;&lt;li&gt;Developed scripts for data cleansing and client‑facing reports.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>//localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/</guid>
+      <description>&lt;h3 id=&#34;pricing--sales-analysis-tool&#34;&gt;Pricing &amp;amp; Sales Analysis Tool&lt;/h3&gt;&#xA;&lt;p&gt;Python, Selenium IDE — scraped competitor pricing data and produced actionable sales insights.&lt;/p&gt;&#xA;&lt;h3 id=&#34;power-bi-business-dashboard&#34;&gt;Power BI Business Dashboard&lt;/h3&gt;&#xA;&lt;p&gt;Power BI, DAX, Power Query — interactive dashboards visualizing inventory, pricing, and sales performance.&lt;/p&gt;&#xA;&lt;h3 id=&#34;predictive-inventory-recommendation-system&#34;&gt;Predictive Inventory Recommendation System&lt;/h3&gt;&#xA;&lt;p&gt;Google Apps Script, OpenAI — recommended optimal restocks in Google Sheets.&lt;/p&gt;&#xA;&lt;h3 id=&#34;utterance-sample--topic-modeling--pypestream&#34;&gt;Utterance Sample &amp;amp; Topic Modeling – Pypestream&lt;/h3&gt;&#xA;&lt;p&gt;Python NLP — analyzed chatbot user data to surface key usage trends and insights.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>//localhost:1313/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/resume/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;//localhost:1313/Ella%20Jones%20Resume.pdf&#34;&gt;Download my resume (PDF)&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
