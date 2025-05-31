@@ -8,7 +8,7 @@ params:
   email: ellajones2025@u.northwestern.edu
   fontFamily: Merriweather
   appearance:
-    background: '#f5f5f0'  # Light cream
+    background: '#f5f5f0'  # Light crea
     primary: '#7d9f6b'    # Matcha green
     accent: '#b8c9a3'     # Lighter matcha
   color:
