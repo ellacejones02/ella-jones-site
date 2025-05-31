@@ -11,6 +11,9 @@ jobs:
     steps:
       - name: Checkout source
         uses: actions/checkout@v3
+        with:
+          submodules: 'recursive'
+          fetch-depth: 0  # Fetch all history for all branches and tags
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
