@@ -1,1 +1,3 @@
-baseURL: https://ellacejones02.github.io/ella-jones-site/ 
+baseURL: "https://ellacejones02.github.io/ella-jones-site/"
+relativeURLs: true
+canonifyURLs: true
